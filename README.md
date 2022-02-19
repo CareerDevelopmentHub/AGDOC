@@ -7,52 +7,21 @@
 ###### Readme hits ![d](https://visitor-badge.laobi.icu/badge?page_id=CodingWizardITER)
 <hr>
 
-## `Reporting Team`
-
-> a. *Coordinating between each team and members individually.*
-
-> b. *Track the performance of members and team.*
-
-> c. *Idea formation for club activities.*
-
-> d. *Permission related things.*
-
-## `Project Team`
+## `Coding Team`
 
 > a. *Members of the team is required to check the status of the projects given and do mentor the teams if needed and make sure that everyone complete it in specified time.*
 
 > b. *New set of problem statements for new joinne.*
 
-## `Coding Team`
+> c. *Monthly challenges questions framing.*
 
-> a. *Monthly challenges questions framing.*
+> d. *Conduct Sessions for logic building.*
 
-> b. *Conduct Sessions for logic building.*
-
-> c. *Daily algorithm practice question.*
-
-## `MCQ Team`
-
-> a. *3 MCQs everyday oriented for placements only.*
-
-> b. *Sharing only a single question content to design team for daily programming MCQ.*
-
-## `Enrichment Team`
-
-> a. *Soft skills.*
-
-> b. *Ability grouping.*
-
-> c. *Aptitude*
+> e. *Daily algorithm practice question.*
 
 ## `Design Team`
 
-> a. *3 poster per day.*
-```
-1. Did you know
-2. Programming MCQs
-3. Depending upon the day’s condition it may variers like promotional posters ability and behavioural development models etc.
-```
+> a. *Making poster.*
 
 > b. *Certificates Designs.*
 
@@ -66,13 +35,9 @@
 
 > c. *Public relation for sponsors and promotion.*
 
-## `Incisive Team`
+> d. *Club promotion to increase the outreach during new entry.*
 
-> a. *Club promotion to increase the outreach during new entry.*
-
-> b. *Framing and checking of questions.*
-
-> c. *Make people understand what exactly club is and what it does.*
+> e. *Make people understand what exactly club is and what it does.*
 
 <hr>
 
