@@ -17,8 +17,6 @@
 
 > d. *Conduct Sessions for logic building.*
 
-> e. *Daily algorithm practice question.*
-
 ## `Design Team`
 
 > a. *Making poster.*
