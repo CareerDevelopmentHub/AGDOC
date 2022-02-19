@@ -25,7 +25,11 @@
 
 > b. *Certificates Designs.*
 
-> c. *T-shirt Designs.*
+> c. *T shirt designs for new comers.*
+
+> d. *Club promotion to increase the outreach during new entry.*
+
+> e. *Make people understand what exactly club is and what it does.*
 
 ## `Event Team`
 
@@ -34,10 +38,6 @@
 > b. *Calling the alumni or placed student of college or business associate for the TREK Event.*
 
 > c. *Public relation for sponsors and promotion.*
-
-> d. *Club promotion to increase the outreach during new entry.*
-
-> e. *Make people understand what exactly club is and what it does.*
 
 <hr>
 
