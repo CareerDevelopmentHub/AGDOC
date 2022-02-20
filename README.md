@@ -17,36 +17,6 @@
 
 > d. *Conduct Sessions for logic building.*
 
-### Contributors
-
-<table>
-<tr>
-<td align="center"><a href="https://github.com/akashrajput25"><kbd><img src="https://avatars3.githubusercontent.com/akashrajput25?size=400" width="100px;" alt=""/></kbd><br /><sub><b>Akash Kumar Singh</b></sub></a></td>
-<td align="center"><a href="https://github.com/samyakOO7"><kbd><img src="https://avatars3.githubusercontent.com/samyakOO7?size=400" width="100px;" alt=""/></kbd><br /><sub><b>Samyak Gantayat</b></sub></a></td>
-<td align="center"><a href="https://github.com/RiturajGupta21"><kbd><img src="https://avatars3.githubusercontent.com/RiturajGupta21?size=400" width="100px;" alt=""/></kbd><br /><sub><b>Rituraj Gupta</b></sub></a></td>
-<td align="center"><a href="https://github.com/kshitizranjan15"><kbd><img src="https://avatars3.githubusercontent.com/kshitizranjan15?size=400" width="100px;" alt=""/></kbd><br /><sub><b>Kshitiz Ranjan</b></sub></a></td>
-<td align="center"><a href="https://github.com/1941012973"><kbd><img src="https://avatars3.githubusercontent.com/1941012973?size=400" width="100px;" alt=""/></kbd><br /><sub><b>Shreejoy Dash</b></sub></a></td>
-<td align="center"><a href="https://github.com/Zeo-shark"><kbd><img src="https://avatars3.githubusercontent.com/Zeo-shark?size=400" width="100px;" alt=""/></kbd><br /><sub><b>	Sourav Bera </b></sub></a></td>
-</tr>
-</table>
-<table>
-<tr>
-<td align="center"><a href="https://github.com/ASVKVINAYAK"><kbd><img src="https://avatars3.githubusercontent.com/ASVKVINAYAK?size=400" width="100px;" alt=""/></kbd><br /><sub><b>A S V K Vinayak</b></sub></a></td>
-<td align="center"><a href="https://github.com/SumanMore"><kbd><img src="https://avatars3.githubusercontent.com/SumanMore?size=400" width="100px;" alt=""/></kbd><br /><sub><b>Suman More</b></sub></a></td>
-<td align="center"><a href="https://github.com/agarwalsahil0210"><kbd><img src="https://avatars3.githubusercontent.com/agarwalsahil0210?size=400" width="100px;" alt=""/></kbd><br /><sub><b>Sahil Agarwal</b></sub></a></td>
-<td align="center"><a href="https://github.com/Ayush06032002"><kbd><img src="https://avatars3.githubusercontent.com/Ayush06032002?size=400" width="100px;" alt=""/></kbd><br /><sub><b>Ayush Pattanayak</b></sub></a></td>
-<td align="center"><a href="https://github.com/NiharikaPd0101"><kbd><img src="https://avatars3.githubusercontent.com/NiharikaPd0101?size=400" width="100px;" alt=""/></kbd><br /><sub><b>Niharika Prasad</b></sub></a></td>
-<td align="center"><a href="https://github.com/07Abhipsha"><kbd><img src="https://avatars3.githubusercontent.com/07Abhipsha?size=400" width="100px;" alt=""/></kbd><br /><sub><b>Abhipsha Sahu</b></sub></a></td>
-</tr>
-</table>
-<table>
-<tr>
-<td align="center"><a href="https://github.com/siddhant2002"><kbd><img src="https://avatars3.githubusercontent.com/siddhant2002?size=400" width="100px;" alt=""/></kbd><br /><sub><b>Siddhant Swarup Mallick</b></sub></a></td>
-<td align="center"><a href="https://github.com/sambitraj"><kbd><img src="https://avatars3.githubusercontent.com/sambitraj?size=400" width="100px;" alt=""/></kbd><br /><sub><b>Sambit Raj</b></sub></a></td>
-<td align="center"><a href="https://github.com/username"><kbd><img src="https://avatars3.githubusercontent.com/username?size=400" width="100px;" alt=""/></kbd><br /><sub><b>Om Mohanty</b></sub></a></td>
-</tr>
-</table>
-
 ## `Design Team`
 
 > a. *Making poster.*
